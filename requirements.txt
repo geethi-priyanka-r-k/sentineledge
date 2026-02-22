@@ -1,9 +1,9 @@
+streamlit
+pandas
+plotly
 fastapi
 uvicorn
-pandas
-numpy
 scikit-learn
 joblib
-streamlit
+numpy
 requests
-python-multipart
