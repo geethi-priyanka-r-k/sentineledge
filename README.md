@@ -1,4 +1,5 @@
 🛡 SentinelEdge AI
+
 Real-Time Edge AI Cyber Threat Detection System
 
 ⚡ Detect. Score. Prioritize. Respond. — In Real Time.
