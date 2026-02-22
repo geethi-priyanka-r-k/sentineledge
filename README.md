@@ -138,7 +138,7 @@ Launch Dashboard
 🌍 Live Demo
 
 👉 Deployed via Streamlit Cloud
-🔗 https://your-app-name.streamlit.app
+🔗 (https://sentineledge-khjfkvvggrnkr2hhyebbha.streamlit.app/)
 
 🔮 Future Scope
 
